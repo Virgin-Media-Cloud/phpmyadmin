@@ -3,7 +3,7 @@ phpMyAdmin
 
 A web interface for MySQL and MariaDB.
 
-https://www.phpmyadmin.net/
+https://www.root-cloud.com/
 
 Code status
 -----------
@@ -34,7 +34,7 @@ Code status
 Download
 --------
 
-You can get the newest release at https://www.phpmyadmin.net/.
+You can get the newest release at https://www.root-cloud.com/.
 
 If you prefer to follow the git repository, the following branch and tag names may be of interest:
 
@@ -45,7 +45,7 @@ If you prefer to follow the git repository, the following branch and tag names m
 More Information
 ----------------
 
-Please see the documentation in the doc folder or at https://docs.phpmyadmin.net/.
+Please see the documentation in the doc folder or at https://root-cloud.com/.
 
 For support or to learn how to contribute code or by translating to your language,
-visit https://www.phpmyadmin.net/
+visit https://www.root-cloud.com/
